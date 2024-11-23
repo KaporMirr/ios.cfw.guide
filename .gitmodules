@@ -1,9 +1,1 @@
-[submodule "docs/.vuepress/vuepress-theme"]
-	path = docs/.vuepress/vuepress-theme
-	url = https://github.com/cfw-guide/vuepress-theme
-[submodule "docs/.vuepress/json/appledb"]
-	path = docs/.vuepress/json/appledb
-	url = https://github.com/emiyl/appledb.git
-[submodule "emiyl-theme"]
-	path = emiyl-theme
-	url = https://github.com/emiyl/emiyl-theme
+uhh
